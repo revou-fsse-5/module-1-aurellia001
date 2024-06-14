@@ -1,0 +1,143 @@
+body {
+    margin: 0px;
+    font-family: AveriaSansLibre;
+    background-color: #fabbe1;
+}
+main {
+    margin-left: 20px;
+    margin-right: 20 px;
+}
+
+p {
+
+    font-family: "open Sans",Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+
+a {
+
+    text-decoration: none;
+    color:#04b2d9;
+    list-style-type: square;
+   
+
+   
+}
+
+.box {
+    text-align: center;
+    border-style: solid;
+    padding: 10px;
+    border-width: 6px;
+    border-color: #59d2e4;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    color: #ed076b;
+}
+
+.comments {
+    text-align: center;
+    border-style: dotted;
+    border-color: yellow;
+    padding: 25px;
+    color: #ed076b;
+    margin-bottom: 100px;
+   
+}
+
+#my-blue-paragraph{
+
+    font-style: italic;
+    color: rgb(9, 9, 123);
+}
+
+h1 {
+    color: #1a9343;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: lobster;
+}
+
+p {
+    font-family: averia sans libre;
+    font-size: 22px;
+}
+
+h2{
+
+    font-family: lobster;
+    font-size: 30px;
+    color: #ed076b;
+    margin-top: 100px;
+}
+
+
+
+
+h3 {
+    color: #2b8d9c;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #ed076b;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    color: #04b2d9;
+}
+
+.navbar a{
+    color: #02f498;
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    
+}
+
+.navbar a:hover{
+    background-color: #d9a986;
+
+}
+   
+.navbar li{
+    float: left
+}
+
+form{
+    
+    border: 5px;
+    border-style: solid;
+    padding: 25px;
+    margin: 50px;
+    border-color: yellow;
+    background-color: #ed076b;
+    color: #02f498;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.css {
+   border: 2px solid;
+   border-color: #ed076b;
+   color: #ed076b;
+   margin: 0px;
+   margin-top: 10px;
+   padding: 15px;
+   font-size: 45px;
+   border-radius: 20px;
+
+}
+
+.css ul{
+
+    list-style-type: square;
+}
+
+
