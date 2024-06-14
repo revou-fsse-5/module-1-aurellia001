@@ -34,7 +34,7 @@ This is the documentation for the website that I will be creating using HTML and
 
 ## Semantic HTML Element: ##
 
-![semantic pic](/img/htmlsemantic.png)
+![htmlsemantic](https://github.com/revou-fsse-5/module-1-aurellia001/assets/171966072/d1fa30b9-87e2-4927-8ec5-c1240688bcc8.png)
 
 
 
